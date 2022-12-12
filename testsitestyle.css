@@ -1,0 +1,62 @@
+body {
+background: #ffffff url("file:///C:/Users/sa_ra/Downloads/Min%20fr%C3%A4lsare%20mot%20den%20j%C3%A4vla%20neger%20judiska%20regeringen.png");
+font-family: verdana;
+font-size: 10px;
+}
+
+div#container {
+width: 600px;
+margin: 0 auto;
+background: #ffffff;
+border: #000000 3px solid;
+}
+
+div#header {
+width: auto;
+height: 100px;
+background: #ffffff url("file:///C:/Users/sa_ra/OneDrive/Documents/Bandicam/Lukas%20Lindes%20Blogg.jpg");
+border-bottom: #000000 1px solid;
+padding: 5px;
+}
+
+div#maincontainer {
+width: 600px;
+}
+
+div#sidebar {
+width: 180px;
+border-right: #000000 1px dashed;
+float: left;
+padding: 5px;
+text-align: justify;
+}
+
+div#content {
+width: 395px;
+border: none;
+float: right;
+padding: 5px;
+text-align: justify;
+}
+
+div#footer {
+width: auto;
+height: 20px;
+border-top: #000000 1px solid;
+padding: 3px 5px 0 5px;
+text-align: center;
+clear: both;
+}
+
+.style1 {
+font-family: tahoma;
+font-size: 14px;
+font-weight: bold;
+color:#FF0000;
+}
+
+.style2 {
+font-size: 8;
+text-decoration: underline;
+color:#0000FF;
+}
